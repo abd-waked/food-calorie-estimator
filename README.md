@@ -41,13 +41,11 @@ Each classified food item is matched with an average caloric value stored in a J
 Example Output:
 ## Installation
 ### Environment
-1- craete a new env named 'food-calorie-estimator'
-'''bash
+craete and activate a new env named 'food-calorie-estimator'
+```bash
 python -m venv food-calorie-estimator
 .\food-calorie-estimator\Scripts\activate
-
-'''
-2- Activate the env
+```
 
 ### Install the required packages
 

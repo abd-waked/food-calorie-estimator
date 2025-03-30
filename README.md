@@ -39,3 +39,15 @@ This project aims to classify food images and estimate their caloric value using
 Each classified food item is matched with an average caloric value stored in a JSON file.
 
 Example Output:
+## Installation
+### Environment
+1- craete a new env named 'food-calorie-estimator'
+'''bash
+python -m venv food-calorie-estimator
+.\food-calorie-estimator\Scripts\activate
+
+'''
+2- Activate the env
+
+### Install the required packages
+

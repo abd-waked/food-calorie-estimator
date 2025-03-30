@@ -43,9 +43,12 @@ Example Output:
 ### Environment
 craete and activate a new env named 'food-calorie-estimator'
 ```bash
-python -m venv food-calorie-estimator
-.\food-calorie-estimator\Scripts\activate
+python -m venv venv
+.\venv\Scripts\activate
 ```
 
 ### Install the required packages
+```
+pip install -r requirements.txt
+```
 
